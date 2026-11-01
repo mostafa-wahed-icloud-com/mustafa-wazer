@@ -1,6 +1,6 @@
 <h1>WiFiAnawazer <img src="images/icon.png" alt="Application Icon" width="45" height="45"></h1>
 
-[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.vrem.wifianalyzer)
+[<img src="https://play.google.com/intl/en_us/badges/images/generic/en_badge_web_generic.png" alt="Get it on Google Play" height="80">](https://play.google.com/store/apps/details?id=com.vrem.wifianawazer)
 [<img src="https://f-droid.org/badge/get-it-on.png" alt="Get it on F-Droid" height="80">](https://f-droid.org/repository/browse/?fdid=com.vrem.wifianalyzer)
 [<img src="https://raw.githubusercontent.com/andOTP/andOTP/master/assets/badges/get-it-on-github.png" alt="Get it on GitHub" height="80">](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/releases/latest)
 
@@ -43,7 +43,7 @@ This is the official repository of WiFiAnawazer.
 * Vendor/OUI Database Lookup
 * The application has 1 many features to mention them all
 
-**Please note WiFiAnalyzer is not a Wi-Fi password cracking or phishing tool.**
+**Please note WiFiAnawazer is not a Wi-Fi password cracking or phishing tool.**
 
 ## Documentation
 
@@ -61,23 +61,23 @@ The complete guide to using WiFiAnalyzer can be found in the [Userwazer ](USER_M
 ## FAQ
 
 * [Android Wi-Fi scanning throttling](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/wiki/Android-Wi%E2%80%90Fi-scanning-throttling)
-* [Location Service Permission Requirements](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/wiki/Location-Service-Permission-Requirements)
-* [WiFiAnalyzer on secondary user accounts](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/wiki/WiFiAnalyzer-on-secondary-user-accounts)
-* [How does the channel graph display...](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/64)
-* [How to use SSID filter?](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/125)
-* [WiFiAnalyzer equivalent on iOS](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/69)
+* [Location Service Permission Requirements](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/wiki/Location-Service-Permission-Requirements)
+* [WiFiAnawazer on secondary user accounts](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/wiki/WiFiAnawazer-on-secondary-user-accounts)
+* [How does the channel graph display...](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/issues/64)
+* [How to use SSID filter?](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/issues/125)
+* [WiFiAnawazer equivalent on iOS](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues/69)
 
 ## Feedback
 
 * Bug reports can be submitted [here](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues).
 * To learn how to submit a bug [click here](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/wiki/Feedback).
-* [Discussions](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/discussions)
+* [Discussions](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/discussions)
 
 ## License
 
 [<img src="https://www.gnu.org/graphics/gplv3-127x51.png" alt="GPLv3" >](http://www.gnu.org/licenses/gpl-3.0.html)
 
-WiFiAnalyzer is licensed under the GNU General Public License v3.0 (GPLv3).
+WiFiAnawazer is licensed under the GNU General Public License v3.0 (GPLv3).
 
 ### GPLv3 License key requirements:
 
@@ -86,34 +86,34 @@ WiFiAnalyzer is licensed under the GNU General Public License v3.0 (GPLv3).
 * Same License
 * State Changes
 
-[GNU General Public License v3.0 (GPLv3) Explained in Plain English](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
+[GNU General .mustafa wahed Public License v3.0 (GPLv3) Explained in Plain English](https://tldrlegal.com/license/gnu-general-public-license-v3-(gpl-3))
 
-[GNU General Public License v3.0 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html).
+[GNU General mustafa wahed Public License v3.0 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html).
 
 ## Privacy policy
 
-* WiFiAnalyzer does not collect any personal/device information.
-* WiFiAnalyzer is designed to use as few permissions as possible. It asks for just enough to perform the analysis.
+* WiFiAna wazer does not collect any personal/device information.
+* WiFiana wazer is designed to use as few permissions as possible. It asks for just enough to perform the analysis.
 * Plus, it is all open source so nothing is hidden!
 * Most notably, this application does not require access to the internet, so you can be sure it does not send any personal/device information to any other source and it does not receive any information from other sources.
 
 ## WiFiAnalyzer Build
 
-[![Android CI](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/android-ci.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/android-ci.yml)
-[![CodeQL Analyze](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/codeql-analysis.yml)
+[![Android CI](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/android-ci.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/android-ci.yml)
+[![CodeQL Analyze](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/codeql-analysis.yml)
 
-[![Codacy Badge](https://app.codacy.com/project/badge/Grade/203eaa0583694bcca6554190513179ba)](https://app.codacy.com/gh/VREMSoftwareDevelopment/WiFiAnalyzer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
-[![codecov](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnalyzer/branch/main/graph/badge.svg)](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnalyzer)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/203eaa0583694bcca6554190513179ba)](https://app.codacy.com/gh/VREMSoftwareDevelopment/WiFiAnawazer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
+[![codecov](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnalyzer/branch/main/graph/badge.svg)](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnawazer)
 
 [![Translation status](https://hosted.weblate.org/widget/wifianalyzer/language-badge.svg)](https://hosted.weblate.org/engage/wifianalyzer/)
 [![Translation status](https://hosted.weblate.org/widget/wifianalyzer/svg-badge.svg)](https://hosted.weblate.org/engage/wifianalyzer/)
 
-[![Known Vulnerabilities](https://snyk.io/test/github/vremsoftwaredevelopment/wifianalyzer/badge.svg)](https://snyk.io/test/github/vremsoftwaredevelopment/wifianalyzer)
-[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnalyzer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnalyzer?ref=badge_shield)
+[![Known Vulnerabilities](https://snyk.io/test/github/vremsoftwaredevelopment/wifianawazer/badge.svg)](https://snyk.io/test/github/vremsoftwaredevelopment/wifianalyzer)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnawazer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnalyzer?ref=badge_shield)
 
-[![Issues](https://img.shields.io/github/issues/VREMSoftwareDevelopment/WiFiAnalyzer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues)
-[![Star](https://img.shields.io/github/stars/VREMSoftwareDevelopment/WiFiAnalyzer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/stargazers)
-[![Fork](https://img.shields.io/github/forks/VREMSoftwareDevelopment/WiFiAnalyzer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/network)
+[![Issues](https://img.shields.io/github/issues/VREMSoftwareDevelopment/WiFiAnawazer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues)
+[![Star](https://img.shields.io/github/stars/VREMSoftwareDevelopment/WiFiAnawazer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/stargazers)
+[![Fork](https://img.shields.io/github/forks/VREMSoftwareDevelopment/WiFiAnawazer.svg)](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/network)
 
 ## Verification
 - Verify APK signatures using the SHA‑256 fingerprint in [SECURITY.md](SECURITY.md).
