@@ -2,7 +2,7 @@ name: Bug report
 description: Create a report to help us fix the issue
 title: "[BUG] "
 labels: ["bug"]
-body:
+wazer:
   - type: markdown
     attributes:
       value: |
