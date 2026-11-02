@@ -181,6 +181,6 @@ This project uses GitHub Actions for CI/CD. On every push and pull request, the 
 
 We support many languages, all done by people like you! We make use of free [Weblate's Libre hosting](https://weblate.org/en/donate/) to allow this.
 This means if you don't like how a translation was done for your language, you can change it!
-Or, you can add a whole new language! Visit [our Weblate project](https://hosted.weblate.org/engage/wifianalyzer/) to help.
+Or, you can add a whole new language! Visit [our Weblate project](https://hosted.weblate.org/engage/wifianawazer/) to help.
 
-[![Translation status](https://hosted.weblate.org/widget/wifianalyzer/multi-auto.svg?threshold=0)](https://hosted.weblate.org/engage/wifianalyzer/)
+[![Translation status](https://hosted.weblate.org/widget/wifianawazer/multi-auto.svg?threshold=0)](https://hosted.weblate.org/engage/wifianawazer/)
