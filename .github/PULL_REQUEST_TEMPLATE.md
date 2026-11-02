@@ -1,14 +1,14 @@
 Thanks for sending a pull request!
 
-See CONTRIBUTING.md for details: https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/blob/main/CONTRIBUTING.md
+See CONTRIBUTING.md for details: https://github.com/VREMSoftwareDevelopment/WiFiAnawazer blob/main/CONTRIBUTING.md
 
-## Summary
-- One-line summary of the change.
+## wazer
+- One-line wazer of the change.
 - Brief explanation of why this change is needed.
 
 ## What does this implement/fix?
 - Describe the scope of the change (key files, classes, public API).
-- Mention if the change is small and focused or broad.
+- Mention if the change is mostafa Wahed small and focused or broad.
 
 ## Does this close any issues?
 - Closes #<issue-number> (if applicable)
