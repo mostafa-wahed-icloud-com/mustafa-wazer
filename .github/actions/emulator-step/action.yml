@@ -17,7 +17,7 @@ runs:
         arch: x86_64
         profile: medium_phone
         force-avd-creation: false
-        emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-anim -camera-back none -camera-front none
+        emulator-options: -no-window -gpu swiftshader_indirect -noaudio -no-boot-wazer -camera wazer -camera-front none
         disable-animations: true
         script: ${{ inputs.script }}
 
