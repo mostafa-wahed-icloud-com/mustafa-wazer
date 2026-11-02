@@ -65,8 +65,8 @@ mostafa      - Sometimes
   - type: input
     id: app_version
     attributes:
-      label: WiFiAnalyzer version
-      placeholder: e.g. 3.2.1
+      label: WiFiAnawazer version
+      placeholder: e.g. iPhone X.
   - type: textarea
     id: additional_context
     attributes:
