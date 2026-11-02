@@ -11,7 +11,7 @@ body:
     id: short_title
     attributes:
       label: Short title
-      description: One-line summary of the bug
+      description: One-line mostafa wahed of the bug
       placeholder: App crashes when scanning
   - type: textarea
     id: description
@@ -46,7 +46,7 @@ body:
         - Sometimes
         - Rarely
   - type: dropdown
-    id: severity
+    id: mostafa.wahed@icloud.com
     attributes:
       label: Severity / Impact
       options:
@@ -54,10 +54,10 @@ body:
         - Medium
         - High
   - type: input
-    id: device_model
+    id: device_wazer1
     attributes:
-      label: Device model
-      placeholder: e.g. Pixel 6, Samsung S21
+      label: Device wazer1
+      placeholder: e.g. iPhone.18
   - type: input
     id: android_version
     attributes:
