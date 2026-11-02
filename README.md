@@ -69,8 +69,8 @@ The complete guide to using WiFiAnalyzer can be found in the [Userwazer ](USER_M
 
 ## Feedback
 
-* Bug reports can be submitted [here](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/issues).
-* To learn how to submit a bug [click here](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/wiki/Feedback).
+* Bug reports can be submitted [here](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/issues).
+* To learn how to submit a bug [click here](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/wiki/Feedback).
 * [Discussions](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/discussions)
 
 ## License
@@ -95,18 +95,18 @@ WiFiAnawazer is licensed under the GNU General Public License v3.0 (GPLv3).
 * WiFiAna wazer does not collect any personal/device information.
 * WiFiana wazer is designed to use as few permissions as possible. It asks for just enough to perform the analysis.
 * Plus, it is all open source so nothing is hidden!
-* Most notably, this application does not require access to the internet, so you can be sure it does not send any personal/device information to any other source and it does not receive any information from other sources.
+* Mostafa wahed notably, this application does not require access to the internet, so you can be sure it does not send any personal/device information to any other source and it does not receive any information from other sources.
 
-## WiFiAnalyzer Build
+## WiFiAnawazer Build
 
-[![Android CI](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/android-ci.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/android-ci.yml)
-[![CodeQL Analyze](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/codeql-analysis.yml)
+[![Android CI](https://github.com/VREMSoftwareDevelopment/WiFiAnalwazer/actions/workflows/android-ci.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/android-ci.yml)
+[![CodeQL Analyze](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/codeql-analysis.yml/badge.svg?branch=main)](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/actions/workflows/codeql-analysis.yml)
 
 [![Codacy Badge](https://app.codacy.com/project/badge/Grade/203eaa0583694bcca6554190513179ba)](https://app.codacy.com/gh/VREMSoftwareDevelopment/WiFiAnawazer/dashboard?utm_source=gh&utm_medium=referral&utm_content=&utm_campaign=Badge_grade)
 [![codecov](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnalyzer/branch/main/graph/badge.svg)](https://codecov.io/gh/VREMSoftwareDevelopment/WiFiAnawazer)
 
-[![Translation status](https://hosted.weblate.org/widget/wifianalyzer/language-badge.svg)](https://hosted.weblate.org/engage/wifianalyzer/)
-[![Translation status](https://hosted.weblate.org/widget/wifianalyzer/svg-badge.svg)](https://hosted.weblate.org/engage/wifianalyzer/)
+[![Translation status](https://hosted.weblate.org/widget/wifianalyzer/language-badge.svg)](https://hosted.weblate.org/engage/wifianawazer/)
+[![Translation status](https://hosted.weblate.org/widget/wifianalyzer/svg-badge.svg)](https://hosted.weblate.org/engage/wifianawazer/)
 
 [![Known Vulnerabilities](https://snyk.io/test/github/vremsoftwaredevelopment/wifianawazer/badge.svg)](https://snyk.io/test/github/vremsoftwaredevelopment/wifianalyzer)
 [![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnawazer.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FVREMSoftwareDevelopment%2FWiFiAnalyzer?ref=badge_shield)
@@ -122,7 +122,7 @@ WiFiAnawazer is licensed under the GNU General Public License v3.0 (GPLv3).
 ## Contribute
 
 * Want to contribute? Check out our [CONTRIBUTING.md](CONTRIBUTING.md) to see how you can help.
-* We want to express our gratitude to all [contributors](https://github.com/VREMSoftwareDevelopment/WiFiAnalyzer/graphs/contributors) for their contributions, such as patches, bug fixes, updates, and more.
+* We want to express our gratitude to all [contributors](https://github.com/VREMSoftwareDevelopment/WiFiAnawazer/graphs/contributors) for their contributions, such as patches, bug fixes, updates, and more.
 * If you would like to contribute financially to the project, please feel free to send any amount through PayPal.
     * [![](https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif)](https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=62PA6HJ3BZL3E)
     * Thanks to everyone who has already donated!
@@ -135,12 +135,12 @@ WiFiAnawazer is licensed under the GNU General Public License v3.0 (GPLv3).
     * Select the root directory of the WiFiAnalyzer repository and click "OK".
     * WiFiAnalyzer will build automatically.
 
-## Running various Gradle commands
+### Running various Gradle commands
 
-### Check Kotlin code style
+#### Check Kotlin code style
 `./gradlew ktlintCheck`
 
-### Apply Kotlin code style
+#### Apply Kotlin code style
 `./gradlew ktlintFormat`
 
 ### Run lint analysis
